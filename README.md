@@ -1,6 +1,6 @@
  # Sobre mim
--👋 ola, meu nome é @IsadoraVilella
-- Meu email de contato é isadora.feltrin@escola.pr.gov.br
+-👋 ola, meu nome é **@IsadoraVilella**
+- Meu email de contato é [email](isadora.feltrin@escola.pr.gov.br)
 - 👀 Eu estou interessada em aprender a progamar novas linguagens.
 - 🌱 Eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scrath
 
